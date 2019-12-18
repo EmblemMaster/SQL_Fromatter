@@ -16,7 +16,7 @@ namespace SQL_Fromatter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SQL_Formatter());
         }
     }
 }
